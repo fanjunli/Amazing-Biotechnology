@@ -25,3 +25,10 @@ footer {
   font-size: 0.9em;
   color: #888;
 }
+
+/* Dark mode styling */
+body.dark {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
+
